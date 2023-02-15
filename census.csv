@@ -1,4 +1,4 @@
-county_id,county,population,county_FIP,latitude,longitude
+county_id,county,population,COUNTYFP10,latitude,longitude
 0,Adair ,7496,127,+42.0416910,-092.9814523
 1,Adams ,3704,011,+42.0925474,-092.0576300
 2,Allamakee ,14061,041,+43.0798220,-095.1497261
