@@ -22,3 +22,7 @@ https://davesredistricting.org/maps#viewmap::628d5e9a-bd35-4248-aa8c-73af095e013
 https://planscore.org/plan.html?20211101T184128.129535035Z
 
 https://news.cornell.edu/stories/2020/11/fairmandering-draws-fair-districts-using-data-science
+
+http://websites.umich.edu/~jowei/
+
+https://github.com/mggg-states/IA-shapefiles
