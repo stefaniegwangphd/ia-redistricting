@@ -3,6 +3,8 @@
 
 list of resources:
 
+Shapefiles for all prior congressional districts 1789 to 2012: https://cdmaps.polisci.ucla.edu/
+
 https://redistrictingdatahub.org/engage/training/
 
 https://www.thisamericanlife.org/784/mapmaker
