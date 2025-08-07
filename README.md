@@ -1,5 +1,6 @@
 # ia-redistricting
 
+To generate congressional maps, use Iowa_districtgenerator.ipynb. Change range in final cell for desired range of seeds. To analyze results with new simulated maps, run simulation_map_analysis.ipynb first. This will find and remove duplicates, and then generate compactness scores and graphics. The list of seeds yielding unique districts will be exported to a csv file. Finally, use election_analysis.ipynb for vote share, seat share, efficiency gap, and mean-median score analysis. Seeds of unique congressional maps are imported at the beginning.
 
 list of resources:
 
